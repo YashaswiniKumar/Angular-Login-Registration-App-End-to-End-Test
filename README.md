@@ -30,7 +30,7 @@ The only information about her private key that Alice initially exposes is her p
 
 ![image](https://user-images.githubusercontent.com/30871627/169286692-ee5654fd-5bb6-4b59-a8df-28f6885d62d7.png)
 
-# Why Elliptic Curve Cryptography
+# Why Elliptic Curve Cryptography?
 
 1. Relatively, easy to perform but extremely difficult to reverse as it leads to Discrete Logarithm Problem.
 2. Private keys are generated for only for one single session and thrown away afterwards.
